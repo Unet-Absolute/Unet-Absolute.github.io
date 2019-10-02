@@ -10,7 +10,7 @@ import Archive from './Archive.js'
 import Data from './data.json';
 function NavBar(){
     return(
-        <Router>
+        <Router basename="blog">
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
     <span className="navbar-brand" ><img className="LogoClass" src={Logo} alt=""></img></span>
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
