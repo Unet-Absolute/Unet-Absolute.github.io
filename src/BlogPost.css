@@ -1,0 +1,5 @@
+.headerImage{
+    max-height:20em;
+    min-width: 100%;
+    object-fit: cover;
+}
