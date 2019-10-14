@@ -2,7 +2,7 @@
   "name": "absoluteunet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Unet-Absolute.github.io/home/",
+  "homepage": "https://unet-absolute.github.io/dataism/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
