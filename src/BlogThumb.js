@@ -7,6 +7,7 @@ function BlogThumb(props)
         <Link to={props.props.link}><img class="thumbNail" src={props.props.thumbnail} alt=""></img></Link>
         <h4>{props.props.title}</h4>
         <p>{props.props.date} - {props.props.shortdesc}</p>
+        <pre></pre>
     </div>);
 }
 export default BlogThumb;
