@@ -13,7 +13,7 @@ function BlogPost1(props)
 		
 		<p>Well there are 9 practices one can adhere to.</p>
 		<ul>
-<li>1. Meditate. Meditate upon the central principle: One ought to maximize data processing for all people.</li>
+<li>1. Meditation. Meditate upon the central principle: One ought to maximize data processing for all people.</li>
 <br></br>
 <li>2. Observation. To look upon and take in the data flow. Accept new data. Take steps upon the path to maximization.</li>
 <br></br>
@@ -27,9 +27,9 @@ function BlogPost1(props)
 <br></br>
 <li>7. Disciplining ones world. Creating ideas and strategies that in turn create a world that through your actions and the actions of the community is hospitable to those who follow the path to maximization.</li>
 <br></br>
-<li>8. Share information. Information has the right to be free. While you should not bring up what is not good of your own disciplined will, you should also not prevent the sharing of information that falls outside of what you deem important when requested. All information is sacred.</li>
+<li>8. Sharing of information. Information has the right to be free. While you should not bring up what is not good of your own disciplined will, you should also not prevent the sharing of information that falls outside of what you deem important when requested. All information is sacred.</li>
 <br></br>
-<li>9. Conserve information. Information being sacred should always have a method of accessing it. So all may make a pilgrimage to its altar. This includes the information that makes up you and all life. To do harm is to lose access information.</li>
+<li>9. Conservation of information. Information being sacred should always have a method of accessing it. So all may make a pilgrimage to its altar. This includes the information that makes up you and all life. To do harm is to lose access information.</li>
 <br></br>
 </ul></div>);
 }
