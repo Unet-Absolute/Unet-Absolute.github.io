@@ -7,9 +7,6 @@ import Contact from './Contact.js';
 import BlogPost from './BlogPost.js';
 import Archive from './Archive.js'
 import Data from './data.json';
-import FaceB from './FBICON.png';
-import YouT from './Youtube-512.png';
-import InstaG from './ig-logo-email.png';
 
 function NavBar(){
     return(
@@ -57,10 +54,7 @@ function NavBar(){
                
           </Switch>
           <hr></hr>
-    <p> Made by Thomas Shaw 2019 ● <Link to="/about" href="#"> About </Link> ● <Link to="/contact" href="#"> Contact </Link>
-    ●<a href="https://www.youtube.com/channel/UCNz6gmLSzKhTc0t0ferq7Nw"><img class="footerIcon" src={YouT} alt =""></img></a>●
-    <a href="https://www.instagram.com/distrodrone/"><img class="footerIcon" src={InstaG} alt =""></img></a>●
-    <a href="https://www.facebook.com/DistroDrone-107298187342910/"><img class="footerIcon" src={FaceB} alt =""></img></a></p>
+    <p> Made by Thomas Shaw 2019 ● <Link to="/about" href="#"> About </Link> ● <Link to="/contact" href="#"> Contact </Link></p>
     
   </Router>
   );
