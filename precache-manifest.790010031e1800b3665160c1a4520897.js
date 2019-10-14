@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88d23e9e9379c2040026ae13e2a935f3",
+    "revision": "b1b023c3b769969237cbb4ad09c37944",
     "url": "/dataism/index.html"
   },
   {
