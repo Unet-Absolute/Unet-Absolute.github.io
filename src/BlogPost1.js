@@ -11,25 +11,25 @@ function BlogPost1(props)
 		
 		<h2>So what does one have to do to call themselves a Dataist?</h2>
 		
-		<p>Well there are 8 practices one can adhere to.</p>
+		<p>Well there are 9 practices one can adhere to.</p>
 		<ul>
-<li>0. Meditate. Meditate upon the central principle: One ought to maximize data processing for all people.</li>
+<li>1. Meditate. Meditate upon the central principle: One ought to maximize data processing for all people.</li>
 <br></br>
-<li>1. Observation. To look upon and take in the data flow. Accept new data. Take steps upon the path to maximization.</li>
+<li>2. Observation. To look upon and take in the data flow. Accept new data. Take steps upon the path to maximization.</li>
 <br></br>
-<li>2. Analysis. Look within and process the internal data flow. Break information into parts and understand those parts. Understand the formation of those parts and the effect of those parts on the future. Approach understanding of the truth of what you have experienced.</li>
+<li>3. Analysis. Look within and process the internal data flow. Break information into parts and understand those parts. Understand the formation of those parts and the effect of those parts on the future. Approach understanding of the truth of what you have experienced.</li>
 <br></br>
-<li>3. Disciplining ones self. Take the information you have created through analysis and understand how it effects you. How thoughts arise and how they change future thoughts. Then utilizing that wisdom to guide your thoughts, views, and focuses towards maximization.</li>
+<li>4. Disciplining ones self. Take the information you have created through analysis and understand how it effects you. How thoughts arise and how they change future thoughts. Then utilizing that wisdom to guide your thoughts, views, and focuses towards maximization.</li>
 <br></br>
-<li>4. Disciplining ones actions. Take the information created by analysis and understand the implication of your actions on the world and yourself. Guiding what you do to follow the path of maximization.</li>
+<li>5. Disciplining ones actions. Take the information created by analysis and understand the implication of your actions on the world and yourself. Guiding what you do to follow the path of maximization.</li>
 <br></br>
-<li>5. Disciplining ones words. Once again returning to the fruits of analysis to understand how what you share effects you and the world. Guiding what you share with others and cultivate so all may find maximization.</li>
+<li>6. Disciplining ones words. Once again returning to the fruits of analysis to understand how what you share effects you and the world. Guiding what you share with others and cultivate so all may find maximization.</li>
 <br></br>
-<li>6. Disciplining ones world. Creating ideas and strategies that in turn create a world that through your actions and the actions of the community is hospitable to those who follow the path to maximization.</li>
+<li>7. Disciplining ones world. Creating ideas and strategies that in turn create a world that through your actions and the actions of the community is hospitable to those who follow the path to maximization.</li>
 <br></br>
-<li>7. Share information. Information has the right to be free. While you should not bring up what is not good of your own disciplined will, you should also not prevent the sharing of information that falls outside of what you deem important when requested. All information is sacred.</li>
+<li>8. Share information. Information has the right to be free. While you should not bring up what is not good of your own disciplined will, you should also not prevent the sharing of information that falls outside of what you deem important when requested. All information is sacred.</li>
 <br></br>
-<li>8. Conserve information. Information being sacred should always have a method of accessing it. So all may make a pilgrimage to its altar. This includes the information that makes up you and all life. To do harm is to lose access information.</li>
+<li>9. Conserve information. Information being sacred should always have a method of accessing it. So all may make a pilgrimage to its altar. This includes the information that makes up you and all life. To do harm is to lose access information.</li>
 <br></br>
 </ul></div>);
 }
