@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dataism/static/css/main.363519fd.chunk.css",
+    "main.css": "/dataism/static/css/main.31427501.chunk.css",
     "main.js": "/dataism/static/js/main.1eba4fac.chunk.js",
     "main.js.map": "/dataism/static/js/main.1eba4fac.chunk.js.map",
     "runtime-main.js": "/dataism/static/js/runtime-main.8d637d98.js",
@@ -9,9 +9,9 @@
     "static/js/2.2018a930.chunk.js": "/dataism/static/js/2.2018a930.chunk.js",
     "static/js/2.2018a930.chunk.js.map": "/dataism/static/js/2.2018a930.chunk.js.map",
     "index.html": "/dataism/index.html",
-    "precache-manifest.e2f354826820492c2aac0c18b3d21bc1.js": "/dataism/precache-manifest.e2f354826820492c2aac0c18b3d21bc1.js",
+    "precache-manifest.ff42411e9e585a4fcf5286de3cc2ea7d.js": "/dataism/precache-manifest.ff42411e9e585a4fcf5286de3cc2ea7d.js",
     "service-worker.js": "/dataism/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/dataism/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.363519fd.chunk.css.map": "/dataism/static/css/main.363519fd.chunk.css.map"
+    "static/css/main.31427501.chunk.css.map": "/dataism/static/css/main.31427501.chunk.css.map"
   }
 }
