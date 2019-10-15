@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dataism/static/css/main.31427501.chunk.css",
-    "main.js": "/dataism/static/js/main.1eba4fac.chunk.js",
-    "main.js.map": "/dataism/static/js/main.1eba4fac.chunk.js.map",
+    "main.css": "/dataism/static/css/main.0b27c376.chunk.css",
+    "main.js": "/dataism/static/js/main.378cb98c.chunk.js",
+    "main.js.map": "/dataism/static/js/main.378cb98c.chunk.js.map",
     "runtime-main.js": "/dataism/static/js/runtime-main.8d637d98.js",
     "runtime-main.js.map": "/dataism/static/js/runtime-main.8d637d98.js.map",
     "static/css/2.0624914a.chunk.css": "/dataism/static/css/2.0624914a.chunk.css",
-    "static/js/2.2018a930.chunk.js": "/dataism/static/js/2.2018a930.chunk.js",
-    "static/js/2.2018a930.chunk.js.map": "/dataism/static/js/2.2018a930.chunk.js.map",
+    "static/js/2.6f7740f2.chunk.js": "/dataism/static/js/2.6f7740f2.chunk.js",
+    "static/js/2.6f7740f2.chunk.js.map": "/dataism/static/js/2.6f7740f2.chunk.js.map",
     "index.html": "/dataism/index.html",
-    "precache-manifest.ff42411e9e585a4fcf5286de3cc2ea7d.js": "/dataism/precache-manifest.ff42411e9e585a4fcf5286de3cc2ea7d.js",
+    "precache-manifest.7c582da90fb4135987c5d8755617b35f.js": "/dataism/precache-manifest.7c582da90fb4135987c5d8755617b35f.js",
     "service-worker.js": "/dataism/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/dataism/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.31427501.chunk.css.map": "/dataism/static/css/main.31427501.chunk.css.map"
+    "static/css/main.0b27c376.chunk.css.map": "/dataism/static/css/main.0b27c376.chunk.css.map"
   }
 }
