@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "123205adc4b10690892c73b45efc93c0",
+    "revision": "a324698a98216c2afd98949c4c56a637",
     "url": "/dataism/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dataism/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "0d1379049ab61fe8ab1b",
+    "revision": "fffc2c565dc55ff20bc0",
     "url": "/dataism/static/css/main.0b27c376.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dataism/static/js/2.6f7740f2.chunk.js"
   },
   {
-    "revision": "0d1379049ab61fe8ab1b",
-    "url": "/dataism/static/js/main.378cb98c.chunk.js"
+    "revision": "fffc2c565dc55ff20bc0",
+    "url": "/dataism/static/js/main.2aa18e67.chunk.js"
   },
   {
     "revision": "0a38f06ee02bb7055fc4",
